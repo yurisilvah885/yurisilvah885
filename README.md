@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Yuri, tenho 21 anos. Atualmente estou em busca de estágio na área da tecnologia, visando a área de desenvolvimento de sistemas. 
+Olá, meu nome é Yuri, tenho 21 anos. Atualmente estou em busca de estágio na área da tecnologia, visando a área de desenvolvimento ou analista de sistemas. 
 
 
 ## 🌐 Socials:
